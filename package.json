@@ -1,0 +1,18 @@
+{
+  "name": "misitionode",
+  "version": "1.0.0",
+  "description": "prueba1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pruebaNode1"
+  },
+  "keywords": [
+    "pn1"
+  ],
+  "author": "robinson",
+  "license": "ISC"
+}
